@@ -1,0 +1,15 @@
+C:\Dev\dotNet_C#\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.exe
+C:\Dev\dotNet_C#\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.deps.json
+C:\Dev\dotNet_C#\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.runtimeconfig.json
+C:\Dev\dotNet_C#\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.dll
+C:\Dev\dotNet_C#\ServidorHttpSimples\bin\Debug\net6.0\ServidorHttpSimples.pdb
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.csproj.AssemblyReference.cache
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.AssemblyInfoInputs.cache
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.AssemblyInfo.cs
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.csproj.CoreCompileInputs.cache
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.dll
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\refint\ServidorHttpSimples.dll
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.pdb
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ServidorHttpSimples.genruntimeconfig.cache
+C:\Dev\dotNet_C#\ServidorHttpSimples\obj\Debug\net6.0\ref\ServidorHttpSimples.dll
